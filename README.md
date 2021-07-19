@@ -1,2 +1,2 @@
 # rsschool-cv
-[](https://chliloud.github.io/rsschool-cv/cv)
+https://chliloud.github.io/rsschool-cv/cv
